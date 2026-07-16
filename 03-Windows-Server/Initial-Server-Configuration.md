@@ -41,3 +41,13 @@ For this lab, the naming convention is:
 - TS = TechSolutions
 - DC = Domain Controller
 - 01 = First Domain Controller
+
+## Completed Initial Configuration
+
+- Renamed server to TS-DC01
+- Configured Australian time zone
+- Assigned static IPv4 address (192.168.56.10)
+- Configured preferred DNS to self (192.168.56.10)
+- Restarted the server to apply configuration changes
+
+Status: Ready for Active Directory Domain Services installation.
