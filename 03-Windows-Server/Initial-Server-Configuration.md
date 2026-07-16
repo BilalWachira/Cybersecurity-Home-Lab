@@ -21,3 +21,23 @@ After installing Windows Server 2022, I reviewed the default configuration using
 - Configure Australian Eastern Standard Time
 - Assign a static IPv4 address
 - Prepare the server for Active Directory Domain Services (AD DS)
+
+## Server Renaming
+
+### Original Name
+
+WIN-4ODHLB72MU6
+
+### New Name
+
+TS-DC01
+
+### Reason
+
+Enterprise environments use standardized naming conventions to make servers easier to identify, manage and document.
+
+For this lab, the naming convention is:
+
+- TS = TechSolutions
+- DC = Domain Controller
+- 01 = First Domain Controller
